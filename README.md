@@ -43,7 +43,7 @@ Para configurar a aplicação, siga os passos abaixo:
 1. **Ajuste a configuração do Script:**
     - Abra o arquivo usando um editor de texto, como por exemplo:
 		```bash
-		sudo nano rss-to-apu.php
+		sudo nano rss-to-api.php
 		```
 
 2. **Edite os campos abaixo no arquivo conforme sua necessidade e informações:**
